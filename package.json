@@ -12,8 +12,7 @@
     "react-loader-spinner": "^5.3.4",
     "react-scripts": "^2.1.8",
     "web-vitals": "^2.1.4",
-    "yarn": "^1.22.19",
-    "build": "CI= npm run build"
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
