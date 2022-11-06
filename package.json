@@ -14,10 +14,10 @@
     "web-vitals": "^2.1.4",
     "yarn": "^1.22.19"
   },
-//  "scripts": {
-  //  "start": "react-scripts --openssl-legacy-provider start",
-   // "build": "react-scripts --openssl-legacy-provider build"
-  //},
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./node_modules/.bin/netlify-lambda serve src",
